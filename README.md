@@ -1,2 +1,2 @@
-# javascript-learning-
+# javascript learning
 starting with chai aur code youtube chanel.
